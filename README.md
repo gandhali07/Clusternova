@@ -6,6 +6,17 @@ It helps users efficiently explore large collections of academic papers by under
 
 ---
 
+## Dataset
+
+Due to GitHub file size limitations, the dataset is not included in this repository.
+
+You can download the dataset from Google Drive:
+🔗 (https://drive.google.com/drive/folders/1vvHcTEniq0ei_ycsrBxwt8R4nhoKdRkt?usp=drive_link)
+
+After downloading, place the dataset inside the folder.
+
+---
+
 ## Features
 - Semantic search using text embeddings  
 - Research paper clustering based on semantic similarity  
